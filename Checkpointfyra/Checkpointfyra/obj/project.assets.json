@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lovis\\OneDrive\\Academy visual studio\\vecka 3\\Checkpointfyra\\Checkpointfyra\\Checkpointfyra.csproj",
+      "projectUniqueName": "C:\\Git\\checkpoint 4\\Checkpointfyra\\Checkpointfyra\\Checkpointfyra.csproj",
       "projectName": "Checkpointfyra",
-      "projectPath": "C:\\Users\\lovis\\OneDrive\\Academy visual studio\\vecka 3\\Checkpointfyra\\Checkpointfyra\\Checkpointfyra.csproj",
+      "projectPath": "C:\\Git\\checkpoint 4\\Checkpointfyra\\Checkpointfyra\\Checkpointfyra.csproj",
       "packagesPath": "C:\\Users\\lovis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lovis\\OneDrive\\Academy visual studio\\vecka 3\\Checkpointfyra\\Checkpointfyra\\obj\\",
+      "outputPath": "C:\\Git\\checkpoint 4\\Checkpointfyra\\Checkpointfyra\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
